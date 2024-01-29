@@ -1,7 +1,8 @@
 # Capstone: Restaurant Reservation System
 ## Overview
 As a full stack developer at Periodic Tables, a startup focused on fine dining experiences, you've been entrusted with the development of a reservation system for fine dining restaurants. This system, designed for internal use by restaurant personnel, streamlines the reservation process, ensuring a seamless experience for both staff and patrons. The system's capabilities range from creating and managing reservations to assigning tables and maintaining the restaurant's operational flow.
-![Screen Shot 2024-01-28 at 10 57 06 PM](https://github.com/dnaDeveloper2/Restaurant-Reservation-App/assets/130073814/84549585-978c-40a2-9e92-1248b512708e)
+![Screen Shot 2024-01-28 at 10 57 06 PM](https://github.com/dnaDeveloper2/Restaurant-Reservation-App/assets/130073814/69c5e9bb-dede-4566-8a08-b1cca74baced)
+
 
 
 
